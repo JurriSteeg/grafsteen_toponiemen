@@ -1,2 +1,3 @@
-# grafsteen_toponiemen
-code voor toponiemresolutie op grafstenen (bachelor thesis)
+# Toponiemresolutie op Grafstenen via de Coördinaten in jpg-metadata
+
+
